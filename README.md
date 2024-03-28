@@ -15,21 +15,7 @@ Expense Tracker System is a web application designed to help users track their e
 5. **Total Expenditure Calculation:** The system calculates the total expenditure for the selected date range and category, providing users with a comprehensive overview of their spending.
 6. **Dynamic Expense Tracking Using Google Chart:** Google Charts provide interactive features such as tooltips, zooming, and panning, allowing users to explore the data more effectively.
 
-**Files Included:**
 
-1. **index.php:** Main page of the Expense Tracker System, where users can record and view their expenses.
-
-2. **connect.php:** PHP script to establish a connection with the database.
-
-3. **user_header.php:** Header file containing navigation links and user information.
-
-4. **footer.php:** Footer file containing closing tags and scripts.
-
-5. **style.css:** CSS file for styling the web interface.
-
-6. **script.js:** JavaScript file for client-side interactions and functionalities.
-
-7. **README.md:** This file, providing an overview of the Expense Tracker System and instructions for setup and usage.
 
 **Setup Instructions:**
 
