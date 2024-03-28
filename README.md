@@ -55,11 +55,30 @@ Expense Tracker System is a web application designed to help users track their e
 **Contributing:**
 
 Contributions to the Expense Tracker System are welcome! Feel free to fork the repository, make improvements, and submit pull requests. Bug reports, feature requests, and feedback can be submitted through the repository's issue tracker.
+
+
 **Home Page Contains Dynamic Google chart**
+
+
 ![image](https://github.com/RutuKhatal-04/Expense-Tracker-System---PHP/assets/163152502/0e1852c4-1ed5-4daf-9b72-bd9cd33cc294)
+
+
+
+
 **EXPENSE Inserting**
+
+
+
 ![image](https://github.com/RutuKhatal-04/Expense-Tracker-System---PHP/assets/163152502/45727db3-b3a2-4088-9717-73d78ed38936)
+
+
+
+
 **Report of Total Expense**
+
+
+
+
 ![image](https://github.com/RutuKhatal-04/Expense-Tracker-System---PHP/assets/163152502/593adb66-0d33-46bd-81a8-586477b363f7)
 
 
