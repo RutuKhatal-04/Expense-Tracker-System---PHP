@@ -13,6 +13,7 @@ Expense Tracker System is a web application designed to help users track their e
 4. **Category Filtering:** Users can filter expenses based on specific categories, allowing them to focus on particular types of expenses for analysis.
 
 5. **Total Expenditure Calculation:** The system calculates the total expenditure for the selected date range and category, providing users with a comprehensive overview of their spending.
+6. **Dynamic Expense Tracking Using Google Chart:** Google Charts provide interactive features such as tooltips, zooming, and panning, allowing users to explore the data more effectively.
 
 **Files Included:**
 
@@ -68,7 +69,11 @@ Expense Tracker System is a web application designed to help users track their e
 **Contributing:**
 
 Contributions to the Expense Tracker System are welcome! Feel free to fork the repository, make improvements, and submit pull requests. Bug reports, feature requests, and feedback can be submitted through the repository's issue tracker.
+**Home Page Contains Dynamic Google chart**
+![image](https://github.com/RutuKhatal-04/Expense-Tracker-System---PHP/assets/163152502/0e1852c4-1ed5-4daf-9b72-bd9cd33cc294)
+**EXPENSE Inserting**
+![image](https://github.com/RutuKhatal-04/Expense-Tracker-System---PHP/assets/163152502/45727db3-b3a2-4088-9717-73d78ed38936)
+**Report of Total Expense**
+![image](https://github.com/RutuKhatal-04/Expense-Tracker-System---PHP/assets/163152502/593adb66-0d33-46bd-81a8-586477b363f7)
 
-![image](https://github.com/RutuKhatal-04/Expense-Tracker-System---PHP/assets/163152502/dca66129-168d-43d1-b14d-ae8a9f2dd27d)
-![image](https://github.com/RutuKhatal-04/Expense-Tracker-System---PHP/assets/163152502/eb8669a6-01e5-4c29-b619-0e7f7296a321)
-![image](https://github.com/RutuKhatal-04/Expense-Tracker-System---PHP/assets/163152502/c72bc9e9-383c-4836-948c-6dad395baf1c)
+
