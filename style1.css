@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Center content styles */
+.wrapper .center {
+  position: absolute;
+  left: 50%;
+  top: 55%;
+  transform: translate(-50%, -50%);
+  font-family: sans-serif;
+  user-select: none;
+  text-align: center;
+}
+
+.center h1,
+.center h2 {
+  color: #fff;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  max-width: 100%; /* Ensure text does not overflow on small screens */
+}
+
+.center .buttons {
+  margin: 45px auto;
+  display: flex;
+  flex-wrap: wrap; /* Allow buttons to wrap on smaller screens */
+  justify-content: center;
+}
+
+.buttons button {
+  height: 50px;
+  width: 150px;
+  font-size: 22px;
+  font-weight: 600;
+  color: #fff;
+  background: #9a66fe;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  border-radius: 25px;
+  transition: 0.4s;
+  margin: 10px; /* Adjust margin for better spacing */
+}
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+  .navbar .logo {
+    padding: 20px;
+  }
+
+  .navbar ul {
+    display: none;
+    position: absolute;
+    top: 80px;
+    width: 100%;
+    background-color: #fff;
+  }
+
+  .navbar ul.show {
+    display: block;
+  }
+
+  .navbar ul li {
+    width: 100%;
+    text-align: center;
+  }
+
+  .navbar ul li a {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
